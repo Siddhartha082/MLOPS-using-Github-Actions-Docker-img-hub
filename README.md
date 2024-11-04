@@ -1,4 +1,4 @@
-# MLOPS- with Github Actions + Docker img Building  with Flask APP - Deploy 
+# MLOPS- with Github Actions + Docker img Building  with Flask APP - Deploy--
 
 # 1st Part Theory + Practical with Example
 ![image](https://github.com/user-attachments/assets/4c63afbd-9e4c-47ee-b1af-af1986aad84f)
