@@ -1,0 +1,20 @@
+# MLOPS- with Github Actions + Docker img Building  with Flask APP - Deploy 
+
+# 1st Part Theory + Practical with Example
+![image](https://github.com/user-attachments/assets/4c63afbd-9e4c-47ee-b1af-af1986aad84f)
+![image](https://github.com/user-attachments/assets/77528803-437c-4b14-8131-2d8c0a3f4dee)
+![image](https://github.com/user-attachments/assets/94c68eae-1356-4c9a-b818-df17ae4c5b73)
+![image](https://github.com/user-attachments/assets/016ef7a8-0235-487d-b6a0-2fbadcf12b61)
+![image](https://github.com/user-attachments/assets/bd29a853-0a9d-4190-b437-51cf35c34996)
+![image](https://github.com/user-attachments/assets/dce2f00e-95a0-43e7-b438-b7de2de75b21)
+![image](https://github.com/user-attachments/assets/486972ac-dcc4-446b-ae98-a0295fc2f2dc)
+![image](https://github.com/user-attachments/assets/502f997c-a6a9-4b7c-a7f0-37a6205417bd)
+![image](https://github.com/user-attachments/assets/24124a13-dfcb-43d9-8aa8-79555e3d3d09)
+![image](https://github.com/user-attachments/assets/97a87663-6a69-46d3-8682-2874bd1e6641)
+![image](https://github.com/user-attachments/assets/5364b059-a6bd-46a1-8758-d09ba3b81285)
+![image](https://github.com/user-attachments/assets/b24299c2-5c89-43b3-a961-fb2f40ad48bf)
+![image](https://github.com/user-attachments/assets/2cac2044-9d48-4e9b-bfdc-a8cb2d756f62)
+![image](https://github.com/user-attachments/assets/52942fcc-db87-4b43-9026-e89422308a99)
+![image](https://github.com/user-attachments/assets/efd88d45-32ba-47d4-958b-d51fa2aa8dc1)
+![image](https://github.com/user-attachments/assets/fb603f3f-b886-4fc9-a95e-b1fb793c3d2e)
+![image](https://github.com/user-attachments/assets/ab1f9d70-226c-4d5d-8c02-459d636e47ef)
