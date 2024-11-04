@@ -1,8 +1,8 @@
 # MLOPS- with Github Actions + Docker img Building  with Flask APP - Deploy--
 
-# 1st Part Theory + Practical with Example
+#1st Part Theory + Practical with Example
 
-# Note PART 2  docker img with flask deploy is  placed 2nd directory .readme file 
+#Note PART 2  docker img with flask deploy is  placed 2nd directory .readme file 
 
 ![image](https://github.com/user-attachments/assets/4c63afbd-9e4c-47ee-b1af-af1986aad84f)
 ![image](https://github.com/user-attachments/assets/77528803-437c-4b14-8131-2d8c0a3f4dee)
